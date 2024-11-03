@@ -10,6 +10,7 @@ namespace SMS.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Title = "Home";
             return View("Index");
         }
                 
