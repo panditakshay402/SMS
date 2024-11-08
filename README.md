@@ -32,13 +32,14 @@ A robust Student Management System built with ASP.NET MVC to streamline educatio
 
 - **Framework:** ASP.NET MVC 5
 - **Database:** MS SQL Server
-- **ORM:** Entity Framework
+- **ORM:** Dapper ORM
 - **Front-end:** 
   - HTML5
   - CSS3
   - JavaScript
   - Bootstrap 5
   - jQuery
+  - JavaScript
 - **Authentication:** ASP.NET Identity
 
 ## 📋 Prerequisites
