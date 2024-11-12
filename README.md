@@ -53,4 +53,4 @@ A robust Student Management System built with ASP.NET MVC to streamline educatio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SMS.git
+   git clone https://github.com/panditakshay402/SMS.git
