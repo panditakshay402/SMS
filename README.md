@@ -40,7 +40,7 @@ A robust Student Management System built with ASP.NET MVC to streamline educatio
   - Bootstrap 5
   - jQuery
   - JavaScript
-- **Authentication:** ASP.NET Identity,Google Oauth,etc
+- **Authentication:** ASP.NET Identity, Google Oauth,etc
 
 ## 📋 Prerequisites
 
